@@ -7,9 +7,7 @@
 <body>
 <nav class="navbar">
   <div class="navdiv">
-    <div class="logo"><a href="#">📍OOTY VISIT 🚙</a></div>
-      
-    
+    <div class="logo"><a href="#">📍OOTY VISIT 🚙</a></div
   <ul>
     <li><a href="#">Home</a></li>
     <li><a href="#">About</a></li>
